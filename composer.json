@@ -1,5 +1,5 @@
 {
-    "name": "php-mime-mail-parser/php-mime-mail-parser",
+    "name": "benpoulson/php-mime-mail-parser",
     "type": "library",
     "description": "A fully tested email parser for PHP 7.1+ (mailparse extension wrapper).",
     "keywords": ["mime", "mail", "mailparse", "MimeMailParser", "parser", "php"],
